@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Ali Ahmad
 
 I'm an aspiring **Full Stack Developer** currently focused on building beautiful and responsive frontends using **ReactJS**. I'm learning the **MERN Stack** and **Next.js** to become a well-rounded developer.
 
@@ -24,13 +24,12 @@ I'm an aspiring **Full Stack Developer** currently focused on building beautiful
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
-- GitHub: [your-github-username](https://github.com/your-github-username)
-- LinkedIn: [your-linkedin-username](https://www.linkedin.com/in/your-linkedin-username)
+- GitHub: [@theweborbitdev](https://github.com/theweborbitdev)
+- LinkedIn: [Ali Ahmad](https://www.linkedin.com/in/aliahmad-webdev/)
 - Portfolio: Coming soon!
 
 ---
 
 > “The best way to learn is by building. Keep coding, keep improving!”
-
